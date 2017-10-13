@@ -1,4 +1,5 @@
 # Kernel
+TARGET_KERNEL_SOURCE := kernel/samsung/universal8895
 TARGET_KERNEL_CONFIG := exynos8895-dream2lte_eur_open_defconfig
 
 # Recovery
